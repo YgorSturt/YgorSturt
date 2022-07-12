@@ -13,5 +13,6 @@
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ygor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ygor-pic" width="510" height="510px" src="https://media.discordapp.net/attachments/954930826179649547/954933379214745610/20220319_220047.gif">
+  ![Snake animation](https://github.com/YgorSturt/YgorSturt/blob/output/github-contribution-grid-snake.svg)
 </div>
-  <div>  ![Snake animation](https://github.com/YgorSturt/YgorSturt/blob/output/github-contribution-grid-snake.svg)</div>
+  
