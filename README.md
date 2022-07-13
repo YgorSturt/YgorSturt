@@ -9,7 +9,8 @@
   <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ygor-pic" width="510" height="510px" src="https://media.discordapp.net/attachments/954930826179649547/954933379214745610/20220319_220047.gif">
+  <img align="right" alt="Ygor-pic" width="180" height="510px" src="https://media.discordapp.net/attachments/954930826179649547/954933379214745610/20220319_220047.gif">
+  
   
 </div>
   </div>
